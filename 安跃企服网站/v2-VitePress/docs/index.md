@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: 深圳市安跃企业服务
+  name: 深圳市安跃企服务
   text: 
-  tagline: 一家专注于规范企业财务的第三方服务企业
+  tagline: 专注于规范中小微企业的财务核算、税务合规，通过业财融合达成管理目标、提升管理效率，用数据资产助力中小微企业高速发展。
   image:
     src: ./img/icon/annyue-logo-256x256.ico
     alt: 安跃企服
