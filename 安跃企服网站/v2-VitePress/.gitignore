@@ -11,7 +11,7 @@
 # 忽略环境变量文件
 .env
 # 忽略日志文件
-*.log
+# *.log
 # 忽略macOS系统生成的隐藏文件
 .DS_Store
 
@@ -28,12 +28,6 @@
 
 # 依赖管理文件
 
-# 忽略Yarn依赖版本锁定文件
-yarn.lock
-# 忽略npm依赖版本锁定文件
-package-lock.json
-# 忽略pnpm依赖版本锁定文件
-pnpm-lock.yaml
 
 
 # 临时文件
@@ -47,7 +41,7 @@ pnpm-lock.yaml
 # 前端开发特定的规则
 
 # 忽略Bower依赖目录
-bower_components/
+# bower_components/
 # 忽略ESLint缓存文件目录
 .eslintcache/
 # 忽略.gitignore文件(针对多个开发者的协作)
@@ -55,17 +49,17 @@ bower_components/
 # 忽略构建输出目录
 build/
 # 忽略日志文件目录
-log/
+# log/
 # 忽略临时文件目录
 tmp/
 # 忽略测试文件目录
-tests/
+# tests/
 # 忽略Node.js依赖模块目录(如果使用Yarn,可忽略)
 node_modules/
 # 忽略打包输出目录,通常是打包后的生产文件
 dist/
 # 忽略代码覆盖率报告
-coverage/
+# coverage/
 
 
 # 其他可能需要忽略的文件或目录

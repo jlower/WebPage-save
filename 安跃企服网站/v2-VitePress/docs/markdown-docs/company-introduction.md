@@ -1,5 +1,6 @@
 ---
 title: 安跃企服
+layout: doc
 lang: zh-CN
 ---
 
@@ -17,8 +18,8 @@ lang: zh-CN
 
 ## 创始人介绍
 
-<img  src="./image.png"  width="270" height = "380"  align = "right" />
-<!-- ![创始人图片](./image.png#pic_right =270x380) -->
+<img  src="/img/company-introduction/image.png"  width="270" height = "380"  align = "right" />
+<!-- ![创始人图片](/img/company-introduction/image.png#pic_right) -->
 
 ### 刘文群（Ann Liu）
 
@@ -36,26 +37,26 @@ lang: zh-CN
 
 ## 企业的优势
 
-![企业优势](image-1.png)
+![企业优势](/img/company-introduction/image-1.png)
 
 ## 财税顾问角色
 
-![财税顾问角色](image-2.png)
+![财税顾问角色](/img/company-introduction/image-2.png)
 
 ## 企业各生命周期的财务重点
 
-![企业各生命周期的财务重点](image-3.png)
+![企业各生命周期的财务重点](/img/company-introduction/image-3.png)
 
 ## 提供服务类型
 
-![](image-4.png)
+![提供服务类型](/img/company-introduction/image-4.png)
 
 ## 工作空间
 
-![工作空间1](company-1.jpg)
+![工作空间1](/img/company-introduction/company-1.jpg)
 
-![工作空间2](company-2.jpg)
+![工作空间2](/img/company-introduction/company-2.jpg)
 
-![工作空间3](company-3.jpg)
+![工作空间3](/img/company-introduction/company-3.jpg)
 
-![工作空间4](company-4.jpg)
+![工作空间4](/img/company-introduction/company-4.jpg)
