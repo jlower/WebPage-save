@@ -9,23 +9,24 @@ export default defineConfig({
   // 则需要设置此项。如果计划将站点部署到 https://foo.github.io/bar/，
   // 那么应该将 base 设置为 “/bar/”。它应该始终以 /开头和结尾。base 会自动添加到其他选项中以 / 开头的所有 URL 前面，因此只需指定一次。
   base: '/',
-  
+
   // https://vitepress.dev/reference/default-theme-config
   themeConfig: {
     logo: '../img/annyue-logo.svg',
     siteTitle: '深圳市安跃企业服务',
 
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: '主页', link: '/' },
+      { text: '企业介绍', link: '/markdown-docs/company-introduction/company-introduction' },
+      { text: '产品目录', link: '/markdown-docs/service-product-catalog/service-product-catalog' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: '深圳市安跃企业服务',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: '企业介绍', link: '/markdown-docs/company-introduction/company-introduction' },
+          { text: '产品目录', link: '/markdown-docs/service-product-catalog/service-product-catalog' }
         ]
       }
     ],
